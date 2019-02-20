@@ -1,0 +1,61 @@
+#container{
+	width: 480px;
+	height: 450px;
+	background: blue;
+	margin: 90px 400px;
+}
+#button{
+	background: #FF7F50;
+	color: white;
+	margin-left: 20px;
+	height: 30px;
+	width: 80px;
+}
+#button:hover{
+	color: black;
+	background: red;
+}
+#right{
+	width: 250px;
+	height: 250px;
+	padding: 30px;
+	margin-top: 50px;
+}
+p{
+	color: white;
+	margin-left: 20px;
+}
+.email{
+	height: 40px;
+	width: 250px;
+	right: -10px;
+	margin: 15px;
+}
+.pass{
+	height: 40px;
+	width: 250px;
+	right: -10px;
+	margin: 15px;
+}
+#submit{
+	color: white;
+	background: red;
+	margin-left: 40px;
+	width: 100px;
+	height: 30px;
+}
+#submit:hover{
+	color: black;
+	background: #F4A460;
+}
+#submit1{
+	color: white;
+	background: red;
+	margin-left: 40px;
+	width: 100px;
+	height: 30px;
+}
+#submit1:hover{
+	color: black;
+	background: #F4A460;
+}
